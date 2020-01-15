@@ -3,6 +3,7 @@
 ## Home
 
 <img src="https://imgur.com/EuPtrQm" alt="Home">
+![Alt text](https://imgur.com/EuPtrQm "Optional title")
 
 ## New post
 
