@@ -4,6 +4,7 @@
 
 <img src="https://imgur.com/EuPtrQm" alt="Home">
 ![alt text](https://imgur.com/EuPtrQm "Optional title")
+[img]https://i.imgur.com/EuPtrQm.png[/img]
 
 ## New post
 
