@@ -9,6 +9,10 @@ Projeto realizado na semana Omnistack 7
 - Git (https://git-scm.com/)
 - Node (https://nodejs.org/en/)
 
+# Configuração do ambiente
+
+- Rocketseat (https://rocketseat.com.br/starter)
+
 # Instalação
 ### Clonando o repositório
 
